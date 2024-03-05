@@ -4,6 +4,7 @@
   "description": "The React component for Splide.",
   "author": "Naotoshi Fujita",
   "license": "MIT",
+  "type": "module",
   "main": "dist/js/react-splide.cjs.js",
   "module": "dist/js/react-splide.esm.js",
   "types": "dist/types/index.d.ts",
